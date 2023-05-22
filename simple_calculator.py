@@ -1,7 +1,6 @@
 from tkinter import *
 
 root = Tk()
-# add it!!
 root.title("simple addition calculator") 
 
 # functions
